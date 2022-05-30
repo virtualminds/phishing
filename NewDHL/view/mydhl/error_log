@@ -1,0 +1,2 @@
+[25-Jun-2019 19:48:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/cdnusercontent/public_html/dhl/log-in.php on line 62
+[25-Jun-2019 19:48:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/cdnusercontent/public_html/dhl/logout.php on line 65
